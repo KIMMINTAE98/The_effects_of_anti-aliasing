@@ -1,7 +1,7 @@
 # The effects of anti-aliasing
 This program shows effects of anti-aliasing about YUV 4:2:0 8bit format images.
 
-Input  : original image
+Input  : original YUV 4:2:0 8bit format image
 
 Output : 1/2 downsampled image with/without anti-aliasing, reconstructed image with/without anti-aliasing
 
